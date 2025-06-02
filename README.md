@@ -27,9 +27,9 @@ All the test data will be autopopulated from the restaurantDB file
 
 | Name | Github |
 
-| Rivaldo |  |
-| Rudolpho |  |
-| Rivaldo |  |
+| Rivaldo |  
+| Rudolpho |  
+| Shekhina |  
 
 
 
